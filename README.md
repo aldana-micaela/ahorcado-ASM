@@ -3,17 +3,17 @@
 Este proyecto implementa el clásico juego del **ahorcado** en lenguaje ensamblador ARM, utilizando instrucciones de bajo nivel, interrupciones y acceso directo a memoria. Desarrollado como trabajo práctico para una materia de sistemas o arquitectura (por ejemplo, Organización de Computadoras I).
 
 # 🧠 Conceptos y características destacadas
-🔣 Lenguaje Assembler (ARM) – Proyecto escrito completamente en bajo nivel, manipulando registros, interrupciones y memoria.
-🧠 Juego interactivo por consola – Muestra un mapa del ahorcado y recibe entradas de usuario carácter por carácter.
+- 🔣 Lenguaje Assembler (ARM) – Proyecto escrito completamente en bajo nivel, manipulando registros, interrupciones y memoria.
+- 🧠 Juego interactivo por consola – Muestra un mapa del ahorcado y recibe entradas de usuario carácter por carácter.
 - Generación aleatoria de palabras.
 - Validación de letras y control de letras repetidas.
 - Control de vidas y dibujo progresivo del ahorcado.
 - Gana o pierde según el progreso del jugador.
 
 ## 🎮 Lógica completa del juego:
-🧩 Pregunta de recuperación – Si el jugador está por perder, puede recuperar una vida respondiendo correctamente una pregunta de lógica binaria.
-🗺️ Coordenadas de rescate – Como último recurso, el jugador puede salvar al personaje ingresando las coordenadas correctas de la soga.
-🧪 Sin dependencias externas – Funciona completamente con llamadas del sistema y manipulación directa de memoria.
+- 🧩 Pregunta de recuperación – Si el jugador está por perder, puede recuperar una vida respondiendo correctamente una pregunta de lógica binaria.
+- 🗺️ Coordenadas de rescate – Como último recurso, el jugador puede salvar al personaje ingresando las coordenadas correctas de la soga.
+- 🧪 Sin dependencias externas – Funciona completamente con llamadas del sistema y manipulación directa de memoria.
 
 
 ## 🛠️ Tecnologías y conceptos aplicados
