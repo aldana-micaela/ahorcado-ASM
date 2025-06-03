@@ -48,12 +48,6 @@ Este código está diseñado para entornos que soporten ejecución de ARM Assemb
 - Raspberry Pi con entorno de desarrollo
 - Sistemas configurados para prácticas de Arquitectura o Sistemas Operativos
 
-## 📌 Recomendaciones
-
-- Revisar comentarios en el código: está muy bien documentado línea por línea.
-- Probar diferentes palabras y respuestas para ver los caminos de ejecución.
-- Asegurarse de configurar correctamente el entorno de ensamblado y ejecución.
-
 ## 👩‍💻 Autora
 ```
 Aldana Micaela Filiberto
